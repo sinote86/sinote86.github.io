@@ -2,6 +2,7 @@
 layout: post
 title: SINOTE of 2018: Year in review
 ---
+
 ## SINOTE of 2018: Year in review
 
 > It is the conceit of every generation to believe that its experience is unique. This is partly because it fails to understand the lessons of history and partly because it has no idea what the future holds. The year 2016, now finally at an end, underscored this basic human dilemma. 
@@ -119,7 +120,7 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 
 
 
-###A New Cold War?
+### A New Cold War?
 
 [Vice President Mike Pence's Remarks on the Administration's Policy Towards China](https://www.hudson.org/events/1610-vice-president-mike-pence-s-remarks-on-the-administration-s-policy-towards-china102018)
 
