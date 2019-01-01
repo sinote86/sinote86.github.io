@@ -1,9 +1,9 @@
 ---
 layout: post
-title: SINOTE of 2018: Year in review
+title: SINOTE of 2018 – Year in review
 ---
 
-## SINOTE of 2018: Year in review
+# SINOTE of 2018: Year in review
 
 > It is the conceit of every generation to believe that its experience is unique. This is partly because it fails to understand the lessons of history and partly because it has no idea what the future holds. The year 2016, now finally at an end, underscored this basic human dilemma. 
 >
@@ -15,43 +15,38 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 
 
 
-### China Rules
+## China Rules
 
 *[Max Fisher](https://www.nytimes.com/2018/11/24/reader-center/china-rules-economy-special-section.html): The New York Times conceived of China Rules, a special project, as a way to answer a deceptively simple question: How did China do it? The nation has defied Western norms, and expectations, to become the world’s second-largest economy and the newest superpower. Almost a year in the making, and with collaboration from nearly all corners of the newsroom and correspondents around the world, the project explores how and why China achieved its stature.*
 
 [PART 1: The Land That Failed to Fail](https://www.nytimes.com/interactive/2018/11/18/world/asia/china-rules.html) 
-
-*by Philip P. Pan, from nytimes.com, 20181118*
+<br> *by Philip P. Pan, from nytimes.com, 20181118*
 
 > China has veered between these competing impulses ever since, between opening up and clamping down, between experimenting with change and resisting it, always pulling back before going too far in either direction for fear of running aground.
 >
 > Many people said that the party would fail, that this tension between openness and repression would be too much for a nation as big as China to sustain. But it may be precisely why China soared.
 
 [PART 2: How China’s Rulers Control Society: Opportunity, Nationalism, Fear](https://www.nytimes.com/interactive/2018/11/25/world/asia/china-freedoms-control.html)
-
-*by Amy Qin & Javier C. Hernández, from nytimes.com, 20181125*
+<br> *by Amy Qin & Javier C. Hernández, from nytimes.com, 20181125*
 
 > The government has offered education as a path to social mobility, unleashed private enterprise by removing Confucian and Marxist stigmas against the merchant class and cultivated a potent brand of nationalism, blending pride and humiliation into a narrative of restoring Chinese greatness.
 >
 > But for many Chinese, those incentives are only part of the calculation. So, too, are the costs of rejecting the party’s bargain.
 
 [PART 3: Money and Muscle Pave China’s Way to Global Power](https://www.nytimes.com/interactive/2018/11/25/world/asia/china-world-power.html)
-
-*by Peter S. Goodman & Jane Perlez, from nytimes.com, 20181125*
+<br> *by Peter S. Goodman & Jane Perlez, from nytimes.com, 20181125*
 
 > Under the muscular leadership of President Xi Jinping, China has cast off previous restraints, rejecting deference to an American-dominated global order as an impediment to national revival. In matters of commerce and national security, China is competing with the United States, even in traditional American spheres of influence.
 >
 
 [PART 4: China’s Economy Became No. 2 by Defying No. 1](https://www.nytimes.com/interactive/2018/11/25/world/asia/china-economy-strategy.html)
-
-*by Keith Bradsher & Li Yuan, from nytimes.com, 20181125*
+<br> *by Keith Bradsher & Li Yuan, from nytimes.com, 20181125*
 
 > China succeeded by creating its own model. It borrowed some Western ideas while rejecting others. It opened itself to the world when necessary, and put on the brakes when it chose to. It set goals and backed them with government money. It freed its people to make and spend money, but it forbade them to ask for a better deal. Entrepreneurs built modern China, and the Communist Party kept them in line.
 >
 
 [PART 5: The Road to Confrontation](https://www.nytimes.com/interactive/2018/11/25/world/asia/china-us-confrontation.html)
-
-*by Mark Landler, from nytimes.com, 20181125*
+<br> *by Mark Landler, from nytimes.com, 20181125*
 
 > At 95, Mr. Kissinger, not surprisingly, takes the long view. Together, he said, the United States and China exert such power, and are capable of inflicting such unthinkable destruction, that they owe it to the world to find a path toward “partial cooperation.”
 >
@@ -63,11 +58,10 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 
 
 
-### Xinjiang
+## Xinjiang
 
 [Re-Education Camps In China’s ‘No-Rights Zone’ For Muslims: What Everyone Needs To Know](https://supchina.com/2018/08/22/xinjiang-explainer-chinas-reeducation-camps-for-a-million-muslims/)
-
-*by Lucas Niewenhuis, from supchina.com, 20180822*
+<br> *by Lucas Niewenhuis, from supchina.com, 20180822*
 
 > 1. Overview
 > 2. Timeline of recent reporting, from October 2017 to present
@@ -81,8 +75,7 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 >    *Uyghurs abroad • Experimental surveillance • International response • Journalist harassment*
 
 [China's hidden camps](https://www.bbc.co.uk/news/resources/idt-sh/China_hidden_camps)
-
-*by John Sudworth, from bbc.co.uk, 20181024*
+<br> *by John Sudworth, from bbc.co.uk, 20181024*
 
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qmvyjwLxC5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > China is accused of locking up as many as a million Uighur Muslims without trial across its western region of Xinjiang. The government denies the claims, saying people willingly attend special "vocational schools" to combat "terrorism and religious extremism". But a BBC investigation has found important new evidence of the reality - a vast and rapidly growing network of detention centres, where the people held inside are humiliated and abused. Using detailed satellite analysis and reporting from a part of the country where journalists are routinely detained and harassed; China correspondent John Sudworth offers his in-depth report on China's Hidden Camps.
@@ -90,8 +83,7 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 > Audio: [The Documentary Podcast](https://www.bbc.co.uk/programmes/p06vdchg)
 
 [‘We’re a people destroyed’: why Uighur Muslims across China are living in fear](https://www.theguardian.com/news/2018/aug/07/why-uighur-muslims-across-china-are-living-in-fear)
-
-*by Gene A. Bunin, from theguardian.com, 20180807*
+<br> *by Gene A. Bunin, from theguardian.com, 20180807*
 
 > ... I spent the best part of 18 months precisely among those “bad Xinjiang people”, both in Xinjiang itself, and in inner China. During that time, I spoke to hundreds of Uighurs, the majority of them male restaurant workers, businessmen, small-time traders and street-food cooks, as well as their families...
 >
@@ -100,14 +92,12 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 > The concentration camps are not referred to as “concentration camps”, naturally. Instead, the people there are said to be occupied with “studying” (*oqushta/öginishte*) or “education” (*terbiyileshte*), or sometimes may be said to be “at school” (*mektepte*).
 
 [China’s Government Has Ordered a Million Citizens to Occupy Uighur Homes. Here’s What They Think They’re Doing.](http://www.chinafile.com/reporting-opinion/postcard/million-citizens-occupy-uighur-homes-xinjiang)
-
-*By Darren Byler, from chinafile.com, 20181024*
+<br> *By Darren Byler, from chinafile.com, 20181024*
 
 > ... less attention has been paid to the mobilization of more than a million Chinese civilians (most members of the Han ethnic majority) to aid the military and police in their campaign by occupying the homes of the region’s Uighurs and other Muslim minorities, and undertaking programs of indoctrination and surveillance, while presenting themselves as older siblings of the men and women they might then decide to consign to the camps.
 
 [Xi Jinping’s War on the Uighurs.](https://omny.fm/shows/the-little-red-podcast/xi-jinping-s-war-on-the-uighurs-part-1-the-witness)
-
-*by The Little Red Podcast, from omen.fm*
+<br> *by The Little Red Podcast, from omen.fm*
 
 > <iframe src="https://omny.fm/shows/the-little-red-podcast/xi-jinping-s-war-on-the-uighurs-part-1-the-witness/embed" width="100%" height="180px" frameborder="0"></iframe>
 > ‘We seem to be normal, but we are not.’ A United Nations human rights panel says it has credible reports that more than a million Uighurs are being held in reeducation camps in the northwestern Chinese province of Xinjiang. As evidence emerges of massive human rights violations from satellite photos, procurement bids and state-run news reports, the voices that have not yet been heard are those of Uighurs themselves. In this episode, Louisa and Graeme hear how the close-knit Uighur community in the Australian city of Adelaide have become long-distance witnesses to an unfolding human rights catastrophe that has torn their families apart. One brought his motherless children to the interview; others brought lists of missing friends and relatives. As they wrestle with anxiety and guilt, they're now starting to raise awareness of their plight. 
@@ -120,11 +110,10 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 
 
 
-### A New Cold War?
+## A New Cold War?
 
 [Vice President Mike Pence's Remarks on the Administration's Policy Towards China](https://www.hudson.org/events/1610-vice-president-mike-pence-s-remarks-on-the-administration-s-policy-towards-china102018)
-
-*by Mike Pence, from hudson.org, 20181004*
+<br> *by Mike Pence, from hudson.org, 20181004*
 
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aeVrMniBjSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > ... I come before you today because the American people deserve to know… as we speak, Beijing is employing a whole-of-government approach, using political, economic, and military tools, as well as propaganda, to advance its influence and benefit its interests in the United States.
@@ -144,14 +133,12 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 > These and other actions, taken as a whole, constitute an intensifying effort to shift American public opinion and public policy away from the America First leadership of President Donald Trump. But our message to China’s rulers is this: This President will not back down – and the American people will not be swayed. We will continue to stand strong for our security and our economy, even as we hope for improved relations with Beijing.
 
 [The Crisis in U.S.-China Relations](https://www.wsj.com/articles/the-crisis-in-u-s-china-relations-1539963174)
-
-*by Richard N. Haass, from wsj.com, 20181019*
+<br> *by Richard N. Haass, from wsj.com, 20181019*
 
 > Competition between the U.S. and China need not be “a four-letter word,” as Matthew Pottinger, the senior staff member on the National Security Council responsible for Asia, has said. A reasonable goal would be managed competition that allows for limited cooperation. For now, however, the Trump administration has adopted a confrontational approach without making clear what it seeks to achieve. It has thus ignored Clausewitz’s prudent advice—that battle should be joined only “as the means towards the attainment of the object of the War.”
 
 [Is this the Beginning of a New Cold War?](http://www.chinafile.com/conversation/beginning-of-new-cold-war)
-
-*by A ChinaFile Conversation, from chinafile.com, 20181211*
+<br> *by A ChinaFile Conversation, from chinafile.com, 20181211*
 
 > **Ali Wyne**: The purpose of noting the Cold War analogy’s limits is not to diminish the scope of the China challenge, but to suggest that the United States will need to manage it differently than it did the Soviet threat. 
 >
@@ -176,8 +163,7 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 > **Evan Medeiros**: The Cold War is the wrong historical analogy to use in explaining U.S.-China dynamics. This is not meant to deny or minimize competition in U.S.-China relations. Rather, the Cold War framework obscures more than it clarifies about bilateral dynamics and, thus, diminishes the complexity of the challenge for U.S. policymakers.
 
 [Inside China's audacious global propaganda campaign](https://www.theguardian.com/news/2018/dec/07/china-plan-for-global-media-dominance-propaganda-xi-jinping)
-
-*by Louisa Lim & Julia Bergin, from theguardian.com, 20181207*
+<br> *by Louisa Lim & Julia Bergin, from theguardian.com, 20181207*
 
 > ... over the past decade or so, China has rolled out a more sophisticated and assertive strategy, which is increasingly aimed at international audiences. China is trying to reshape the global information environment with massive infusions of money – funding paid-for advertorials, sponsored journalistic coverage and heavily massaged positive messages from boosters. While within China the press is increasingly tightly controlled, abroad Beijing has sought to exploit the vulnerabilities of the free press to its advantage.
 >
@@ -186,11 +172,10 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 
 
 
-### Eggs
+## Eggs
 
 [Imminent Fears, Immediate Hopes](http://chinaheritage.net/journal/imminent-fears-immediate-hopes-a-beijing-jeremiad/)
-
-*by Xu Zhangrun, translated by Geremie R. Barmé, from chinaheritage.net, 20180724*
+<br> *by Xu Zhangrun, translated by Geremie R. Barmé, from chinaheritage.net, 20180724*
 
 > Below I offer an overview of the major causes of anxiety and panic in contemporary China under eight topics.
 >
@@ -215,23 +200,20 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 > 8. The Eighth Hope: Overturn the Verdict on 4 June
 
 [China’s Leaders Confront an Unlikely Foe: Ardent Young Communists](https://www.nytimes.com/2018/09/28/world/asia/china-maoists-xi-protests.html)
-
-*by Javier C. Hernández, from nytimes.com, 20180928*
+<br> *by Javier C. Hernández, from nytimes.com, 20180928*
 
 > ... the Huizhou activists represent a threat the authorities did not expect.
 > Carrying portraits of Mao and singing socialist anthems, they espoused the very ideals that the government fed them for years in mandatory ideological classes, voicing grievances about issues like poverty, worker rights and gender equality — some of communism’s core concerns.
 
 [#MeToo in China: ‘If we lose, there might be no more women speaking out for years’](https://www.ft.com/content/a0cb1c6a-f825-11e8-af46-2022a0b02a6c)
-
-*by Yuan Yang, from ft.com, 20181206*
+<br> *by Yuan Yang, from ft.com, 20181206*
 
 > \#MeToo was late to begin in China but exploded on social media in 2018. The movement has already exposed several professors at China’s top universities, as well as leading to the resignation of Shi Xuecheng, a monk who headed China’s Buddhist Association. As in the west, the campaign seeks to expose those wielding their power through sexual harassment. But people speaking up here also face the threat of censorship and even persecution from the state.
 >
 > Xianzi, who wishes to be known by her nickname, not only spoke out against one of her country’s highest-profile alleged perpetrators, state media TV host Zhu Jun; she is also the first accuser to take her case to court in a civil lawsuit claiming infringement of personal dignity. <br>
 
 [China’s Bizarre Program to Keep Activists in Check](https://www.newyorker.com/magazine/2018/12/24/chinas-bizarre-program-to-keep-activists-in-check)
-
-*by Jianying Zha, from newyorker.com, 20181224*
+<br> *by Jianying Zha, from newyorker.com, 20181224*
 
 > Recently, the Beijing police took my brother sightseeing again. Nine days, two guards, chauffeured tours through a national park that’s a World Heritage site, visits to Taoist temples and to the Three Gorges, expenses fully covered, all courtesy of the Ministry of Public Security. The point was to get him out of town during the 2018 Forum on China-Africa Cooperation, held in early September. The capital had to be in a state of perfect order; no trace of trouble was permissible. And Zha Jianguo, a veteran democracy activist, is considered a professional troublemaker...
 >
@@ -239,8 +221,7 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 >
 
 [Breaking Eggs Against a Rock](http://www.chinafile.com/library/nyrb-china-archive/breaking-eggs-against-rock)
-
-*by Ian Johnson, from chinafile.com, 20180927*
+<br> *by Ian Johnson, from chinafile.com, 20180927*
 
 > How does Lin exist for some Chinese but not for others? How can dissidents know of her, while most people remain ignorant?
 >
