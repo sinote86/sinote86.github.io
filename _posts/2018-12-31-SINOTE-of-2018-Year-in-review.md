@@ -1,9 +1,7 @@
 ---
 layout: post
-title: SINOTE of 2018 – Year in review
+title: "SINOTE of 2018: Year in review"
 ---
-
-# SINOTE of 2018: Year in review
 
 > It is the conceit of every generation to believe that its experience is unique. This is partly because it fails to understand the lessons of history and partly because it has no idea what the future holds. The year 2016, now finally at an end, underscored this basic human dilemma. 
 >
@@ -12,8 +10,6 @@ title: SINOTE of 2018 – Year in review
 Well, the year 2018, now finally at an end, underscored this basic human dilemma, again. 
 
 ---
-
-
 
 ## China Rules
 
@@ -55,8 +51,6 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 > Harking back to his session with Mr. Bannon, Mr. Kissinger added, “I cannot guarantee that that will be the result.”
 
 ---
-
-
 
 ## Xinjiang
 
@@ -107,8 +101,6 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 > "Domestically I don't think the Uighur culture will survive." China now acknowledges the existence of mass indoctrination camps in Xinjiang - which it calls 'vocational training centres' - after months of denial. Its latest propaganda campaign showcases Uighurs inside the camps thanking the Party for teaching them skills and saving them from Islamic extremism. In this episode, Louisa and Graeme are joined by Nury Turkel, chairman of the Uyghur Human Rights Project, and James Leibold of La Trobe University to explore the reasons behind the Communist Party’s about-face. The traditional Uighur way of life now faces an existential threat inside Chinese borders, both through standardisation campaigns and the despatch of a million (largely Han Chinese) citizens into Uighur homes.
 
 ---
-
-
 
 ## A New Cold War?
 
@@ -169,8 +161,6 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 >
 
 ---
-
-
 
 ## Eggs
 
