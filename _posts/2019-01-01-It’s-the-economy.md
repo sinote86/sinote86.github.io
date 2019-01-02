@@ -27,7 +27,7 @@ title: It’s the economy
 >
 > China’s slowing economy is another factor to worry markets. Beijing reported its economy grew 6.5 per cent in the third quarter of the year, its slowest quarterly figure in almost a decade. The trade dispute is also expected to take a toll on Chinese manufacturing, one of the main growth engines.
 
-[U.S. Presses China on Trade Proposals](https://www.wsj.com/articles/u-s-presses-china-on-trade-proposals-11546208150) <br> *by Bob Davis, from wsj.com, 20121231*
+[U.S. Presses China on Trade Proposals](https://www.wsj.com/articles/u-s-presses-china-on-trade-proposals-11546208150) <br> *by Bob Davis, from wsj.com, 20181231*
 
 > The U.S. is urging Beijing to fill in the details of a slew of trade and investment proposals Chinese officials have made recently, as the two sides try to resolve a trade battle that has rocked global markets.
 >
