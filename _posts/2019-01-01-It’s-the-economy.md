@@ -1,6 +1,7 @@
 ---
 layout: post
 title: It’s the economy
+date: 2019-01-01
 ---
 
 ## News

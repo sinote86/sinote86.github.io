@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SINOTE of 2018: Year in review"
+date: 2018-12-31
 ---
 
 > It is the conceit of every generation to believe that its experience is unique. This is partly because it fails to understand the lessons of history and partly because it has no idea what the future holds. The year 2016, now finally at an end, underscored this basic human dilemma. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: China-US relations, cross-strait relations, after four decades
+date: 2019-01-02
 ---
 
 ## China-US
