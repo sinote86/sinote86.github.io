@@ -55,3 +55,9 @@ date: 2019-01-11
 > A starkly different reality emerges in Luopu, also known as Lop county, where Guardian interviews with current and former residents and analysis of public documents reveal new details about the government’s continuing campaign in one of the worst-affected areas of Xinjiang.
 >
 > Local authorities are expanding detention camps, increasing surveillance and policing, and co-opting residents through intimidation, force and financial incentives.
+
+[Adrian Zenz on re-education camps in Xinjiang](https://soundcloud.com/merics-612350689/69-adrian-zenz-on-re-education-camps-in-xinjiang) <br> *by MERICS Experts, from soundcloud.com, 20190111*
+
+> <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/557295975&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+>
+> China’s policies in the north-western region of Xinjiang have come under international criticism in recent months, especially the detention of tens if not hundreds of thousands Muslim Uighurs. The Chinese government says the re-education camps and other surveillance measures in Xinjiang are part of a campaign to fight terrorism and religious extremism. But the independent researcher Adrian Zenz, who has studied numerous government documents on Xinjiang, says China attempts to enforce “complete control” and loyalty towards the Communist Party. The CCP wants long-term generational change and younger Uighurs to forget their religious and cultural roots, Zenz says in the latest MERICS Experts podcast.
