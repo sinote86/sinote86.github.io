@@ -22,14 +22,6 @@ date: 2019-01-10
 >
 > But an order to hush up the programme came after US investigators turned their attention to the scientists who have taken part, especially those who previously worked in the US or who had returned to the US after spending time in China.
 
-[Worries about unemployment mount as China’s economy slows](https://www.economist.com/china/2019/01/12/worries-about-unemployment-mount-as-chinas-economy-slows?fsrc=rss) <br> *from economist.com, 20190110*
-
-> ![](https://www.economist.com/sites/default/files/imagecache/640-width/20190112_CNC148.png)
->
-> A slowing economy is putting pressure on jobs in China (though Apple’s woes may involve other factors, too—see [article](https://www.economist.com/node/21756851)). The official unemployment rate is stable at around 5%, but as always this figure is a poor guide. Surveys in the manufacturing and service sectors show that companies have been cutting staff since at least September. Wage growth is tepid compared with the sizzling norm of a few years ago. In November profits at industrial firms fell for the first time in nearly three years.
->
-> When China’s leaders met in December to map out economic policy for 2019, they said their priority would be to stabilise employment. They are anxious about social stability in a year studded with sensitive anniversaries. Among them will be the 30th of the Tiananmen protests, which involved economic grievances as well as political ones. Suppression of labour unrest has become even harsher in recent months. In one case, police detained more than 30 students and activists who had tried to help workers organise a union at a firm in the southern city of Shenzhen.
-
 ## \#Metoo
 
 [#XiToo: Chinese Feminism and The Party’s Hyper-Masculine Reboot](https://omny.fm/shows/the-little-red-podcast/xitoo-chinese-feminism-and-the-party-s-hyper-mascu) <br> *by The Little Red Podcast, from omny.fm, 20190108*
