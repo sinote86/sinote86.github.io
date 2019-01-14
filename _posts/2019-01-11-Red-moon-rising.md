@@ -61,3 +61,9 @@ date: 2019-01-11
 > <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/557295975&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 >
 > China’s policies in the north-western region of Xinjiang have come under international criticism in recent months, especially the detention of tens if not hundreds of thousands Muslim Uighurs. The Chinese government says the re-education camps and other surveillance measures in Xinjiang are part of a campaign to fight terrorism and religious extremism. But the independent researcher Adrian Zenz, who has studied numerous government documents on Xinjiang, says China attempts to enforce “complete control” and loyalty towards the Communist Party. The CCP wants long-term generational change and younger Uighurs to forget their religious and cultural roots, Zenz says in the latest MERICS Experts podcast.
+
+[China Intensifies Lobbying to Thwart Criticism of Muslim Detentions](https://www.wsj.com/articles/china-intensifies-lobbying-to-thwart-criticism-of-muslim-detentions-11547230366) <br> *by Chun Han Wong & Laurence Norman, from wsj.com, 20190111*
+
+> China has escalated efforts to repel foreign criticism of its policing, mass detentions and forced-assimilation measures targeting Muslims in the restive Xinjiang region, stepping up diplomacy and public-relations efforts.
+>
+> Beijing has also arranged choreographed visits to the region for selected foreign diplomats and reporters—many from Muslim-majority nations friendly with China—while rebuffing Western requests for similar trips. But the stage-managed tour “raised more questions than it answered” for some diplomats, said a diplomat familiar with the trip.
