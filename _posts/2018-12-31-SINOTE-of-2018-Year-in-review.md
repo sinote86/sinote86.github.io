@@ -87,7 +87,7 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 > The concentration camps are not referred to as “concentration camps”, naturally. Instead, the people there are said to be occupied with “studying” (*oqushta/öginishte*) or “education” (*terbiyileshte*), or sometimes may be said to be “at school” (*mektepte*).
 
 [China’s Government Has Ordered a Million Citizens to Occupy Uighur Homes. Here’s What They Think They’re Doing.](http://www.chinafile.com/reporting-opinion/postcard/million-citizens-occupy-uighur-homes-xinjiang)
-<br> *By Darren Byler, from chinafile.com, 20181024*
+<br> *by Darren Byler, from chinafile.com, 20181024*
 
 > ... less attention has been paid to the mobilization of more than a million Chinese civilians (most members of the Han ethnic majority) to aid the military and police in their campaign by occupying the homes of the region’s Uighurs and other Muslim minorities, and undertaking programs of indoctrination and surveillance, while presenting themselves as older siblings of the men and women they might then decide to consign to the camps.
 

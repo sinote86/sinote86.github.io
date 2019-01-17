@@ -42,7 +42,7 @@ date: 2019-01-01
 >
 > Eswar Prasad, a Cornell University China scholar who recently returned from Beijing, said government officials and academics told him that pressure from the U.S. was helping them in their arguments to liberalize foreign access to the financial sector. But they doubted Beijing would agree to the kinds of sweeping changes in industrial policy that the Trump administration has been demanding.
 
-## In-depth
+## In-Depth
 
 [Empty Homes and Protests: China’s Property Market Strains the World](https://www.nytimes.com/2018/12/30/business/china-economy-property.html) <br> *by Alexandra Stevenson & Cao Li, from nytimes.com, 20181230*
 
