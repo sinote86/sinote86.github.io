@@ -39,19 +39,3 @@ date: 2019-01-22
 > ![](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F571f931a-1d38-11e9-b126-46fc3ad87c65?source=next&fit=scale-down&quality=highest&width=700)
 >
 > The gap is likely to widen further because of the increasingly higher costs of chip making equipment and of the research and development needed to produce the most advanced processors — used in applications such as high-performance computing, high-end mobile and gaming devices and artificial intelligence.
-
-## Profile
-
-['I'm being watched': Anne-Marie Brady, the China critic living in fear of Beijing](https://www.theguardian.com/world/2019/jan/23/im-being-watched-anne-marie-brady-the-china-critic-living-in-fear-of-beijing) <br> *by Eleanor Ainge Roy, from theguardian.com, 20190123*
-
-> Brady has spent more than 25 years researching the Chinese Communist party (CCP), using her base in New Zealand as a refuge to work on her books, cook elaborate meals for her family and tend her vegetable and flower gardens.
->
-> But since the publication of her [2017 paper Magic Weapons](https://www.wilsoncenter.org/sites/default/files/magic_weapons.pdf), which details the extent of Chinese influence in New Zealand, Brady’s life has been turned upside down, becoming the target of a campaign of intimidation and “psy-ops” she believes is directed by Beijing towards her and her family. The Chinese government has not responded to requests for comment.
->
-> ...
->
-> Brady has studied the Chinese government’s propaganda and intimidation tactics for decades, so there is a level of irony to seeing it in her own life. The watcher has become the watched.
->
-> Under Xi Jinping’s leadership, China academics around the world are experiencing increasing intimidation, say Brady and [other experts](https://www.insidehighered.com/news/2018/01/03/scholars-and-politicians-raise-concerns-about-chinese-governments-influence-over). Some refuse to speak publicly for fear of reprisals or being refused visas to China.
->
-> “Kill the chicken to scare the monkey” – Brady says, quoting a Chinese idiom.
