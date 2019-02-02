@@ -22,6 +22,12 @@ date: 2019-01-30
 >
 > The problem is structural, not ethical. No matter how trustworthy the Ren family, Huawei would have no choice but to comply if the party knocked on the door. China’s 2017 intelligence law, part of legislation enacted under President Xi Jinping, permits the security apparatus not only to spy on its citizens but to enlist co-operation globally. No would not be an acceptable answer.
 
+[Is Huawei a Pawn in the Trade War?](https://www.foreignaffairs.com/articles/china/2019-01-30/huawei-pawn-trade-war) <br> *by Robert Williams, from foreignaffairs.com, 20190130*
+
+> Despite Trump’s reckless tweeting, it’s highly unlikely that Meng’s arrest was timed to give Washington additional leverage over Beijing. She was arrested on charges of fraud connected to sanctions violations, and the U.S. criminal investigation of Huawei began long before the current round of U.S.-Chinese trade talks. Meng is not a hostage; her detention was a legitimate act of law enforcement.
+>
+> There is, however, a less transactional and more fundamental connection between the heightened scrutiny of Huawei and Washington’s trade war against Beijing: both stem from the growing tensions and mistrust between Western states and China in matters of technology, economic policy, and national security. Both are driven, in part, by the fear that the Chinese Communist Party’s grip on the country’s private sector means that Chinese companies cannot truly be independent from the Chinese state.
+
 [How to handle Huawei](https://www.economist.com/leaders/2019/01/30/how-to-handle-huawei) <br> *from economist.com, 20190130*
 
 > Instead of spiralling into a cold war, leaders should create mechanisms and rules that favour trade by minimising mistrust. Both sides have a part to play. Host countries need to develop structures to monitor Huawei and to provide for a reasonable response if things go wrong. European political leaders complain that they have not been shown evidence of Huawei spying. The more credible and law-like America’s process is, the better. Britain has a board that allows spooks to review Huawei’s equipment. Germany has copied it and Singapore may follow. Governments can lower the risk by insisting on a diversity of suppliers. In a country with four networks, it would make sense if at least two were not built by Huawei.
