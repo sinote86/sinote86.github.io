@@ -55,6 +55,8 @@ Well, the year 2018, now finally at an end, underscored this basic human dilemma
 
 ## Xinjiang
 
+![](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F6732110e-fdeb-11e8-aebf-99e208d3e521?source=next&fit=scale-down&quality=highest)
+
 [Re-Education Camps In China’s ‘No-Rights Zone’ For Muslims: What Everyone Needs To Know](https://supchina.com/2018/08/22/xinjiang-explainer-chinas-reeducation-camps-for-a-million-muslims/)
 <br> *by Lucas Niewenhuis, from supchina.com, 20180822*
 
