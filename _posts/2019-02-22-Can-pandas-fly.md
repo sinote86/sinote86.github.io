@@ -44,6 +44,14 @@ date: 2019-02-22
 >
 > To bolster their DNA capabilities, scientists affiliated with China’s police used equipment made by Thermo Fisher, a Massachusetts company. For comparison with Uighur DNA, they also relied on genetic material from people around the world that was provided by Kenneth Kidd, a prominent Yale University geneticist.
 
+[The Muslim World Looks On as China Persecutes Its Muslims](https://www.wsj.com/articles/why-muslim-rulers-stay-quiet-over-chinas-assault-on-the-uighurs-11550767403) <br> *by Yaroslav Trofimov, from wsj.com, 20190221*
+
+> But Mr. Erdogan has yet to speak out in person on Beijing’s latest Xinjiang crackdown, unleashed in 2017. Virtually all other Muslim leaders are equally quiet, in contrast to the steady stream of condemnation that they shower on Israel for its treatment of the Palestinians and on Myanmar for the Rohingya crisis.
+>
+> It is only this month that Ankara finally mustered a response to the systematic persecution in Xinjiang, calling it “a shame to humanity.” The rare condemnation came in the form of a statement from a foreign ministry spokesman—lacking the weight of Mr. Erdogan’s frequent, and emotional, pronouncements on Muslim causes world-wide.
+>
+> The shift isn’t hard to explain. With its massive Belt and Road investment initiative and its expanding military and technology muscle, China is simply too central an actor in the Muslim world—and the world at large—for the cause of the Uighurs to matter much. That is especially the case as U.S. foreign policy turns increasingly unpredictable, prompting many Muslim countries to reach out to Beijing as a hedge.
+
 [Fears for Uighur comedian missing amid crackdown on cultural figures](https://www.theguardian.com/world/2019/feb/22/xinjiang-fears-for-uihgur-comedian-missing-amid-crackdown-on-cultural-figures) <br> *by Lily Kuo, from theguardian.com, 20190222*
 
 > Arslan Mijit Hidayat says there is not a single Uighur who has not heard of his father-in-law, Adil Mijit. “We have a saying in the Uighur language ‘From seven to 70’ and anyone between these ages would know him,” said Hidayat, 31, who was born in Sydney to Uighur parents. “He’s A-list. When you think comedy, you think him.”
